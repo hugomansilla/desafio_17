@@ -1,4 +1,4 @@
-# Desafio_17: Hito 1 (Pizzería Mamma Mía)
+# Desafio 17: Hito 1 (Pizzería Mamma Mía)
 
 - Se muestran los componentes Navbar, Home, Footer
 - Se crea el componente Header y se llama en Home.
